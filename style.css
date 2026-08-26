@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background: #d1afc3;
+  background: #e6b3c2;
   color: #222;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
@@ -157,5 +157,5 @@ nav h1 {
 
 .nav-li a:hover {
   background: #f7ebeb;
-  color: #f3f1f1;
+  color: #5ed8b9;
 }
