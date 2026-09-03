@@ -102,4 +102,6 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
+  guccimorty: { image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcI5uD-J5TmNc_e_K0zlcUhWbIvbvfU5JBuCzgWiOgfQ&s=10"}
+  unicorn: {}
 };
