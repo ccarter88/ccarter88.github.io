@@ -31,23 +31,23 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
-createPlatform(100, 630, 150, 20, "#be6ea4");
-createPlatform(345, 500, 150, 20, "#be6ea4");
+createPlatform(60, 630, 100, 20, "#be6ea4");
+createPlatform(269, 500, 100, 20, "#be6ea4");
 
-createPlatform(510, 590, 150, 20, "#be6ea4");
+createPlatform(510, 590, 100, 20, "#be6ea4");
 
-createPlatform(685,455, 150, 20, "#be6ea4");
+createPlatform(685,455, 100, 20, "#be6ea4");
 
-createPlatform(855,635, 150, 20, "#be6ea4");
+createPlatform(855,635, 100, 20, "#be6ea4");
 
-createPlatform(1055, 500,150, 20, "#be6ea4");
+createPlatform(1055, 500,100, 20, "#be6ea4");
 
 
     // TODO 3 - Create Collectables
-createCollectable("guccimorty", 400, 450);
+createCollectable("guccimorty", 715, 400);
 
 
-createCollectable("guccimorty", 685, 400);
+createCollectable("guccimorty", 300, 440);
 createCollectable("guccimorty", 525, 10, 1.0, 0.0);
 
 createCollectable("guccimorty",1085,460);
@@ -55,10 +55,12 @@ createCollectable("guccimorty", 850, 10, 1.0, 0.0);
     
     // TODO 4 - Create Cannons
 createCannon("top", 200, 600);
-createCannon("right", 750, 600);
+createCannon("right", 750, 10);
 
-createCannon("top", 700, 980);
-createCannon("left", 650, 1000);
+createCannon("top", 700, 2000);
+createCannon("left", 650, 10);
+
+createCannon("top", 1000, 600);
     
     
     //////////////////////////////////
